@@ -1,0 +1,16 @@
+[package]
+name = "hecker"
+version = "0.1.0"
+authors = ["Jonas da Silva"]
+description = "Pretend you are a hacker or feel like one from Hollywood"
+edition = "2021"
+repository = "https://github.com/phoenixr-codes/hecker/"
+license-file = "LICENSE"
+keywords = ["fooling", "fun", "hack", "terminal"]
+categories = ["command-line-utilities"]
+
+
+[dependencies]
+clap = "4.1.8"
+console = "0.15.5"
+ureq = "2.6.2"
