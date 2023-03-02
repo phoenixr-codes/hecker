@@ -1,6 +1,6 @@
 [package]
 name = "hecker"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Jonas da Silva"]
 description = "Pretend you are a hacker or feel like one from Hollywood"
 edition = "2021"
